@@ -7,7 +7,7 @@ Welcome to the assignments repository! Below is a list of all deployed assignmen
 | Growth Mindset Challenge           | [View Deployment](https://growthmindsetappbyahemd.streamlit.app/) |
 | Unit Converter                     | [View Deployment](https://unitconverterbyahmed.streamlit.app/)   |
 | Password Strength Meter            | [View Deployment](https://passwordstrenghtmeterbyahmed.streamlit.app/) |
-| Personal Library Manager           | [CLI Based App](-----------------------) |
+| Personal Library Manager           | CLI Based App |
 | Excel to Voucher                   | [View Deployment](https://ahmednoorani258-exceltovoucherconverter-tqxjryqgz3f8c5hg2ygjzq.streamlit.app/)  |
 
 
