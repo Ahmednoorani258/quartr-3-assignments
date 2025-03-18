@@ -1,0 +1,23 @@
+[
+    {
+        "title": "ahmed",
+        "author": "ahmed",
+        "year": 205,
+        "generation": "1",
+        "read": true
+    },
+    {
+        "title": "ai assisted programming",
+        "author": "unknown",
+        "year": 2025,
+        "generation": "1",
+        "read": true
+    },
+    {
+        "title": "xyz",
+        "author": "xyz",
+        "year": 2025,
+        "generation": "1",
+        "read": false
+    }
+]
