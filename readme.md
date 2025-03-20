@@ -15,3 +15,5 @@ Welcome to the assignments repository! Below is a list of all deployed assignmen
 1. Click on the **Deployed Link** to view the live version of the assignment.
 
 Feel free to explore and provide feedback!
+
+deeplearning ai completed: https://learn.deeplearning.ai/accomplishments/1be53cd3-ef94-4a28-bbca-44cb0d90c5cb?usp=sharing
