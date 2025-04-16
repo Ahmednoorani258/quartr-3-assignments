@@ -2,7 +2,7 @@
 
 Welcome to the assignments repository! Below is a list of all deployed assignments.
 
-| **Assignment**                     | **Deployed Link**                              |
+| **Assignments**                     | **Deployed Link**                              |
 |------------------------------------|-----------------------------------------------|
 | Growth Mindset Challenge           | [View Deployment](https://growthmindsetappbyahemd.streamlit.app/) |
 | Unit Converter                     | [View Deployment](https://unitconverterbyahmed.streamlit.app/)   |
