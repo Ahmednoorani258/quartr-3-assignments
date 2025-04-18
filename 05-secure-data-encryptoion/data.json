@@ -1,0 +1,16 @@
+{
+  "users": {
+    "ahmed": {
+      "pwd": "yhLVzRgD/jBFi05LjYQfkr8uVkd55OziazB9Q0XhkiPjQkXXku6Vhz/8vmwdGX9m",
+      "q": "hi",
+      "ans": "Qfp4aFNhobAzDYnb/ZrptV4BhbtY3GZEvWjdjQnYs8ZJuq3xsOLDLMjnQKWezgXV",
+      "entries": {
+        "hi": {
+          "token": "gAAAAABoApNwQ72mib0IXEUgae9UQBY4V6x418KB3mqHLJywM0aubvTMBiDWYZnkbUMWIk6_pCJf8ixjGGWi_NPrOYxDa0-YFw==",
+          "pk": "FxyHOmEkZB95om6flrckpyXkPMwiV8BW3LGQPyCfGeac8Iw7O2Y9Wh8R52ziOgla"
+        }
+      }
+    }
+  },
+  "fernet_key": "deMQGKq9LaL0if0JQFkUqFdCJzJtkt88PhXoxA96X_I="
+}
